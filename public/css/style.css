@@ -1,0 +1,271 @@
+.jconfirm .jconfirm-box .jconfirm-buttons button.btn-orange {
+    background-color: #337ab7;
+    color: #FFF;
+    text-shadow: none;
+    -webkit-transition: background .2s;
+    transition: background .2s;
+}
+.jconfirm.jconfirm-material .jconfirm-box {
+   padding: 20px 20px 10px 20px;
+}
+.f22 {
+    font-size: 22px!important;
+}
+.invalid-feedback {
+    color: red;
+}
+.w-50 {
+    width: 50px;
+}
+.cursor {
+    cursor: pointer;
+}
+.blah-avatar{
+    padding: 0;
+    margin-top: 10px;
+}
+.avatar-img {
+    width: 100px;
+}
+.hidden {
+    visibility: hidden;
+}
+.c-red {
+    color: red;
+}
+.user-panel>.image>img {
+    width: 100%;
+    max-width: 45px;
+    height: 45px;
+}
+.btn-social-icon>:first-child {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 32px;
+    line-height: 34px;
+    font-size: 1em;
+    text-align: center;
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+.lh-30 {
+    line-height: 30px;
+}
+.ml-22 {
+    margin-right: 22px;
+}
+.ml-24 {
+    margin-right: 24px;
+}
+.error {
+    color: red;
+    font-weight: 500;
+}
+
+.dataTable .btn-action a:not(:last-child) {
+    margin-right: 10px;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.btn-action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pd-r10 {
+    padding-right: 10px;
+}
+
+.m-t-r-10 {
+    margin: 10px 0;
+}
+
+.f-2r{
+    font-size: 2rem;
+}
+
+.label-c {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 0!important;
+    font-weight: 400!important;
+    margin-left: 6px;
+}
+
+.alert-danger {
+    color: #721c24!important;
+    background-color: #f8d7da!important;
+    border-color: #f5c6cb!important;
+}
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.alert-success {
+    color: #155724!important;
+    background-color: #d4edda!important;
+    border-color: #c3e6cb!important;
+}
+
+.has-feedback label~.form-control-feedback {
+    top: 0!important;
+}
+
+.login-page{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-logo{
+    text-align: center;
+}
+
+.login-logo img{width:180px;height:auto;}
+
+.login-box-body {
+    border-radius: 2px;
+}
+
+.lang-switch-wrap{
+    list-style: none;
+    padding-left: 10px;
+    margin-bottom: 0;
+    display: flex;
+    margin-top: 10px;
+}
+
+.lang-switch{
+    border: 1px solid #ccc;
+    background-image: linear-gradient(to top,#e5e5e5,#f4f4f4);
+    padding: 0 0 2px 4px;
+    margin: 1px 4px 1px 0;
+    cursor: default;
+    display: inline-block;
+}
+
+.lang-switch.active {
+    border-color: #888;
+    background-image: none;
+    background-color: #bbb;
+    color: #555;
+}
+
+.lang-switch>* {
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+.lang-switch-wrap li.lang-switch span:hover {
+    text-decoration: underline;
+}
+
+.translate-item{
+    display: none;
+}
+
+.translate-vi{
+    display: block;
+}
+
+.blah-wrap{
+    display: none;
+    margin-top: 10px;
+}
+
+.blah-wrap img{
+    max-width: 200px;
+}
+
+.avatar-sm {
+    width: 50px;
+}
+.name-permission {
+    background: #3c8dbc;
+    color: #fff;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 2px;
+}
+
+.disabled {
+    color: gray;
+    cursor: not-allowed;
+}
+
+.disabled:hover, .disabled:active, .disabled:focus {
+    color: gray;
+}
+
+.form-control.is-invalid, .form-control.is-invalid+#cke_editor {
+    border-color: #dd4b39;
+}
+
+/*scroll*/
+      /* width */
+  ::-webkit-scrollbar {
+      width: 10px;
+  }
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.img-user {
+    width: 150px;
+    height: 150px;
+}
+.d-none {
+    display: none!important;
+}
+.progress-bar-container {
+    margin-bottom: 2px!important;
+    color: #737373 !important;
+    height: 23px !important;
+    font-weight: 400 !important;
+    position: relative !important;
+    background-color: #C9C9C9 !important;
+    width: 100% !important;
+}
+
+.progress-bar-container .progress-bar {
+    width: 0%; background: #0aab4a !important;
+    opacity: .8 !important;
+    display: inline-block !important;
+    height: 100% !important;
+}
+.progress-bar-container .process {
+    position: absolute!important;
+    width: 100%!important;
+    text-align: center!important;
+}
+.line-h35 {
+    line-height: 35px;
+}
+.dataTables_wrapper {
+    font-size: 16px;
+}
+button.btn.text-danger {
+    background: #d2d6de;
+}
+

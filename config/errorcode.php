@@ -1,0 +1,40 @@
+<?php 
+
+	return [
+		'exception' => 1000,
+		'the_name_field_is_required' => 1001,
+		'the_email_field_is_required' => 1002,
+		'the_password_field_is_required' => 1003,
+		'the_phone_field_is_required' => 1004,
+		'the_password_confirmation_does_not_match' => 1005,
+		'the_email_must_be_a_valid_email_address' => 1006,
+		'the_email_has_already_been_taken' => 1007,
+		'the_phone_has_already_been_taken' => 1008,
+		'the_image_field_is_required' => 1009,
+		'the_image_must_be_a_file_of_type:_jpeg,_jpg,_png,_gif' => 1010,
+		'the_otp_field_is_required' => 1011,
+		'phone_number_does_not_exist_in_the_system' => 1012,
+		'incorrect_otp_code' => 1013,
+		'otp_code_has_expired' => 1014,
+		'the_numbers_field_is_required' => 1015,
+		'the_message_field_is_required' => 1016,
+		'the_email_must_be_a_string' => 1017,
+		'the_recipient_of_the_score_cannot_be_himself' => 1018,
+		'the_point_field_is_required' => 1019,
+		'the_point_must_be_a_number' => 1020,
+		'the_account_is_logged_on_another_device' => 1021,
+		'not_enough_points_to_transact' => 1022,
+		'the_transaction_does_not_exist' => 1023,
+		'the_service_id_field_is_required' => 1024,
+		'the_notification_does_not_exist' => 1023,
+		'the_body_field_is_required' => 1024,
+		'the_transaction_id_must_be_a_number' => 1025,
+		'the_transaction_id_field_is_required' => 1026,
+		'the_transaction_id_field_is_required' => 1026,
+		'the_device_id_field_is_required' => 1026,
+		'the_service_does_not_exist' => 1027,
+		'the_content_field_is_required' => 1028,
+		'the_phone_must_be_10_digits' => 1029
+	]
+
+?>
