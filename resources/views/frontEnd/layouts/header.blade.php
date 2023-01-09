@@ -15,7 +15,7 @@
                         <div class="logo logo-orange mt-1">
                             <a class="main-logo" title="Logo GTECH"
                                href="{{url('/')}}">
-                                <img alt="GTECH"
+                                <img class="g-logo" alt="GTECH"
                                      srcset="{{url('upload/logo/logo.png')}} 1x, {{url('upload/logo/logo.png')}} 2x"
                                      src="{{url('upload/logo/logo.png')}}"
                                      width="170"

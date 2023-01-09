@@ -1425,3 +1425,7 @@ ul.desktop-menu li a.active, ul.main-mobile-menu li a.active {
     color:#0069ff;
     font-weight: bold;
 }
+.g-logo {
+    max-width: 120px;
+    margin-top: 8px;
+}

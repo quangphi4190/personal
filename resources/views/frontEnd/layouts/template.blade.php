@@ -42,7 +42,7 @@
         {{--Các giải pháp nổi bật--}}
         <?php foreach ($data_system['banners'] as $banner){?>
         <div class="slide-item-save"
-             style="background: #002f95 url({{ url('upload/shares/'.$banner->image) }}) no-repeat center center;">
+             style="background: transparent url({{ url('upload/shares/'.$banner->image) }}) no-repeat center center;">
             <div class="container">
                 <div class="hero-content">
                     <h2 class="typewriter">{{$banner->title}}</h2>
