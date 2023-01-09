@@ -57,7 +57,9 @@
                         <?php foreach ($thanhphanhethongs as $ht){?>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="icon-box-s2 s1 pb-60">
-                                <div class="icon-main"><span class="flaticon-best"></span></div>
+                                <div class="icon-main">
+                                    <i class="{{$ht->icon}}"></i>
+                                </div>
                                 <div class="content-box">
                                     <h5>{{$ht->title}}</h5>
                                     <p>{!! $ht->description !!}</p>
